@@ -3,28 +3,28 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Shida: Shida Jing
 
 What do you prefer to be called?
-> ...
+> Shida: Shida  
 
 What are your GitHub usernames?
-> ...
+> Shida: Dkyse
 
 Why are you taking this course?
-> ...
+> Shida: It is required by the Major and I am a CS major.
 
 Do you have any concerns about this course?
-> ...
+> Shida: Yes. #1. I am not very good with C. #2. I am worried that I might not get a good partner.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> Shida: Locks
 
 Do you have any questions about the course?
-> ...
+> Shida: Not yet.
 
 Do you have any other questions for me?
-> ...
+> Shida: No.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
