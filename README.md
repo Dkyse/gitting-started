@@ -4,27 +4,35 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names as they appear on the class roster?
 > Shida: Shida Jing
+> Derek: Derek Wang
 
 What do you prefer to be called?
 > Shida: Shida  
+> Derek: Derek
 
 What are your GitHub usernames?
 > Shida: Dkyse
+> Derek: dwang36
 
 Why are you taking this course?
 > Shida: It is required by the Major and I am a CS major.
+> Derek: Also because I am planning to be a computer science major
 
 Do you have any concerns about this course?
 > Shida: Yes. #1. I am not very good with C. #2. I am worried that I might not get a good partner.
+> Derek: I mildly dislike C, I'm a little worried that the content may be hard
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > Shida: Locks
+> Derek: GPU and Shell
 
 Do you have any questions about the course?
 > Shida: Not yet.
+> Derek: No
 
 Do you have any other questions for me?
 > Shida: No.
+> Derek: No.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
@@ -50,3 +58,4 @@ Where can you find our course textbook?
 
 When are you free during my scheduled office hours?
 > Shida: I am free for all your office hours except for the ones on Monday.
+> Derek: I'm mostly free during your office hours. You seem to have a lot of options.
